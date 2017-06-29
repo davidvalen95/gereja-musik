@@ -1,0 +1,11 @@
+%color-white{
+  color: white;
+}
+
+%button-primary{
+
+  &:hover{
+    color: white;
+  }
+  color: white;
+}

@@ -1,0 +1,53 @@
+.mbackground-0, .mbackground-1, .mbackground-2, .mbackground-3, .mbackground-4, .mbackground-5, .mbackground-6, .mbackground-7, .mbackground-8, .mbackground-9, .mButton-0, .mButton-1, .mButton-2, .mButton-3, .mButton-4, .mButton-5, .mButton-6, .mButton-7, .mButton-8, .mButton-9 {
+  color: white; }
+  .mbackground-0:hover, .mbackground-1:hover, .mbackground-2:hover, .mbackground-3:hover, .mbackground-4:hover, .mbackground-5:hover, .mbackground-6:hover, .mbackground-7:hover, .mbackground-8:hover, .mbackground-9:hover, .mButton-0:hover, .mButton-1:hover, .mButton-2:hover, .mButton-3:hover, .mButton-4:hover, .mButton-5:hover, .mButton-6:hover, .mButton-7:hover, .mButton-8:hover, .mButton-9:hover {
+    color: white; }
+
+.mCenter {
+  margin-left: auto;
+  display: block;
+  margin-right: auto; }
+
+.mbackground-0 {
+  background-color: #5a698f; }
+.mbackground-1 {
+  background-color: #5a5c8f; }
+.mbackground-2 {
+  background-color: #665a8f; }
+.mbackground-3 {
+  background-color: #735a8f; }
+.mbackground-4 {
+  background-color: #805a8f; }
+.mbackground-5 {
+  background-color: #8d5a8f; }
+.mbackground-6 {
+  background-color: #8f5a84; }
+.mbackground-7 {
+  background-color: #8f5a76; }
+.mbackground-8 {
+  background-color: #8f5a69; }
+.mbackground-9 {
+  background-color: #8f5a5c; }
+
+.mButton-0 {
+  background-color: #5a698f; }
+.mButton-1 {
+  background-color: #5a5c8f; }
+.mButton-2 {
+  background-color: #665a8f; }
+.mButton-3 {
+  background-color: #735a8f; }
+.mButton-4 {
+  background-color: #805a8f; }
+.mButton-5 {
+  background-color: #8d5a8f; }
+.mButton-6 {
+  background-color: #8f5a84; }
+.mButton-7 {
+  background-color: #8f5a76; }
+.mButton-8 {
+  background-color: #8f5a69; }
+.mButton-9 {
+  background-color: #8f5a5c; }
+
+/*# sourceMappingURL=custom.css.map */

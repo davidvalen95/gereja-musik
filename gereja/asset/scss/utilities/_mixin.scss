@@ -1,0 +1,18 @@
+@mixin color-hue($base-color:red, $hover-color:white){
+
+  @for $i from 0 to 10{
+    $hue-color: adjust-hue($base-color, ($i * 15));
+    $complement-color: complement($hue-color);
+    &-#{$i}{
+      @extend %button-primary;
+      background-color: $hue-color;
+      // color: $complement-color;
+    }
+    // &-#{$i}:hover{
+    //   background-color: darken($hue-color, 10%);
+    //   @extend %color-white;
+    // }
+  }
+
+
+}
